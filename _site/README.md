@@ -1,5 +1,5 @@
 # Gadgetry Website
-This is the Gadgetry Website at [gadgetry.io](http://gadgetry.io) built using [Jekyll](https://jekyllrb.com/) and the [Darkmatter Theme](https://github.com/fellowhobbyist/darkmatter-theme)
+This is the Gadgetry Website at [gadgetry.io](http://gadgetry.io) built using [Jekyll](https://jekyllrb.com/) and the Darkmatter Theme.
 
 This project is Developed and Built via a Private Repository and published to GitHub Pages using Git Submodules. 
 
@@ -36,11 +36,13 @@ Here is a quick review of the Project Directory
 
 
 ## Links
-[Jekyll](https://jekyllrb.com/)
-[Jekyll Darkmatter Theme](https://github.com/fellowhobbyist/darkmatter-theme)
-[GitHub Pages](https://pages.github.com/)
-[GitHub HTTPS Configuration](https://help.github.com/articles/troubleshooting-custom-domains/#https-errors)
-[Bootstrap](http://getbootstrap.com/)
-[FontAwesome](https://fontawesome.com/)
-[Icons8](https://icons8.com/)
-[Reveal.js](https://revealjs.com/#/)
+
+* [Jekyll](https://jekyllrb.com/)
+* [GitHub Pages](https://pages.github.com/)
+* [GitHub HTTPS Configuration](https://help.github.com/articles/troubleshooting-custom-domains/#https-errors)
+* [Bootstrap](http://getbootstrap.com/)
+* [FontAwesome](https://fontawesome.com/)
+
+## Credits
+
+* [Icons created by Eucalyp - Flaticon](https://www.flaticon.com/authors/eucalyp)
